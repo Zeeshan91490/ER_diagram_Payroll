@@ -1,8 +1,8 @@
 #UC1
 SHOW databases;
-CREATE DATABASE payroll_service; #Created database
+CREATE DATABASE payrollservice; #Created database
 SHOW databases;
-USE payroll_service;
+USE payrollservice;
 SELECT database();
 
 #UC2
